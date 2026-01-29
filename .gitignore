@@ -2,6 +2,42 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Unity Collaborate
+.collabignore
+
+# Gradle
+.gradle/
+
+# MemoryCaptures
+MemoryCaptures/
+
+# Addressable assets
+aa.meta
+aa/
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
